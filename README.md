@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Bereket Assefa 👋
 
-<!--
-**rabberdabber/rabberdabber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Full Stack Software Engineer with a B.S. in Electrical Engineering and Computer Science from KAIST. I specialize in building secure, scalable applications using modern web technologies.
 
-Here are some ideas to get you started:
+## Technical Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages:** Python, JavaScript/TypeScript, C/C++
+- **Backend:** FastAPI, PostgreSQL, Node.js, REST APIs, gRPC, Firestore, Redis
+- **Frontend:** React, React Native, Next.js, Tailwind CSS, HTML/CSS
+- **DevOps & Cloud:** Docker, Docker Compose, Kubernetes, AWS, Google Cloud
+- **Tools:** Linux, Git, VSCode  
+:contentReference[oaicite:0]{index=0}&#8203;:contentReference[oaicite:1]{index=1}
+
+## Get in Touch
+
+- **Email:** [bereketsiyum@gmail.com](mailto:bereketsiyum@gmail.com)
+- **Portfolio:** [codebake.io](https://portfolio.codebake.io)
