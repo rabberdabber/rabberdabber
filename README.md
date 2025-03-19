@@ -8,8 +8,7 @@ I'm a Full Stack Software Engineer with a B.S. in Electrical Engineering and Com
 - **Backend:** FastAPI, PostgreSQL, Node.js, REST APIs, gRPC, Firestore, Redis
 - **Frontend:** React, React Native, Next.js, Tailwind CSS, HTML/CSS
 - **DevOps & Cloud:** Docker, Docker Compose, Kubernetes, AWS, Google Cloud
-- **Tools:** Linux, Git, VSCode  
-:contentReference[oaicite:0]{index=0}&#8203;:contentReference[oaicite:1]{index=1}
+- **Tools:** Linux, Git, VSCode
 
 ## Get in Touch
 
