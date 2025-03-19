@@ -14,3 +14,4 @@ I'm a Full Stack Software Engineer with a B.S. in Electrical Engineering and Com
 
 - **Email:** [bereketsiyum@gmail.com](mailto:bereketsiyum@gmail.com)
 - **Portfolio:** [codebake.io](https://portfolio.codebake.io)
+- **Linkedin:** [bereket-bake](https://www.linkedin.com/in/bereket-bake/)
